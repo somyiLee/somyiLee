@@ -20,13 +20,6 @@ I'm Somyi, a frontend developer who mainly uses React. I am constantly thinking 
 " src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=figma&logoColor=white"/> 
  
    <br/>
- 
-## :pencil2: Study log
- 
-  
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=som-2)](https://som-2.tistory.com/)
-
-   <br/>
 
   ##  🚀 Social 
  
@@ -36,9 +29,9 @@ I'm Somyi, a frontend developer who mainly uses React. I am constantly thinking 
 
 <br />
 
-## 👩🏻‍💻 Me
+ ## 📝 Study log
+ 
+  
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=som-2)](https://som-2.tistory.com/)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsomyiLee&count_bg=%23FFC0C0&title_bg=%23FF7474&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
- <br/> 
+   <br/>
