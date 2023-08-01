@@ -1,6 +1,8 @@
+<div align="center">
 
-# 👋 Hello, World! 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=50&pause=100&color=4277F7&center=true&vCenter=true&width=570&lines=Hello%2C+world!+I+am+Somyi.)](https://git.io/typing-svg)
 
+</div>
 
 I'm Somyi, a frontend developer who mainly uses React. I am constantly thinking about code that is good to read, and I am always curious about new technologies and developing them. Thanks for visiting my github.🙌
 
