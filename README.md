@@ -8,7 +8,7 @@
 
 <br/>
 
-I'm Somyi, a frontend developer who mainly uses React. I am constantly thinking about code that is good to read, and I am always curious about new technologies and developing them. Thanks for visiting my github.🙌
+I'm Somyi, a frontend developer who mainly uses React. I am constantly thinking about code that is good to read, and I am always curious about new technologies and developing them. Thanks for visiting my github 🙌
 
 
 
