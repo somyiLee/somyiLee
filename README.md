@@ -24,6 +24,8 @@ I'm Somyi, a frontend developer who mainly uses React. I am constantly thinking 
  <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/> <img alt="Git
 " src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"> <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img alt="Git
 " src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=figma&logoColor=white"/> 
+
+and I'm studying right now ... &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
  
    <br/>
 
