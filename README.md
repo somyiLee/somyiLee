@@ -25,14 +25,13 @@ I'm Somyi, a frontend developer who mainly uses React. I am constantly thinking 
 " src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img alt="Git
 " src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=figma&logoColor=white"/> 
 
-and I'm studying right now ... &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+and I'm studying right now ... &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> 
  
    <br/>
 
   ##  🚀 Social 
  
 <a href="https://som-2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=ffffff"/></a>
-<a href="https://www.instagram.com/som2_96" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=ffffff"/></a>
 <a href="mailto:some100696@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=google&logoColor=ffffff"/></a>
 
 <br />
